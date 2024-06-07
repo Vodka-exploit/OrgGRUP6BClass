@@ -1,6 +1,22 @@
 [
-  { "nama": "Anggota 1", "role": "Admin" },
-  { "nama": "Anggota 2", "role": "Ketua" },
-  { "nama": "Anggota 3", "role": "Yudisial" },
-  { "nama": "Anggota 4", "role": "Anggota" }
+  { "nama": "Zidan", "role": "Ketua" },
+  { "nama": "Azzam", "role": "Yudisial" },
+  { "nama": "Dayyan", "role": "Yudisial" },
+  { "nama": "Sidqi", "role": "Admin" },
+  { "nama": "Azriel", "role": "Admin" },
+  { "nama": "Rizqy", "role": "Admin" },
+  { "nama": "Mirza", "role": "Admin" },
+  { "nama": "Almer", "role": "Admin" },
+  { "nama": "Ahdan", "role": "Anggota" },
+  { "nama": "Arya", "role": "Anggota" },
+  { "nama": "Ashim", "role": "Anggota" },
+  { "nama": "Ahdan", "role": "Anggota" },
+  { "nama": "Bayu", "role": "Anggota" },
+  { "nama": "Dhaffa", "role": "Anggota" },
+  { "nama": "Gibran", "role": "Anggota" },
+  { "nama": "Kenzhie", "role": "Anggota" },
+  { "nama": "Syafir", "role": "Anggota" },
+  { "nama": "Izzaz", "role": "Anggota" },
+  { "nama": "Izzan", "role": "Anggota" },
+  { "nama": "Habib", "role": "Anggota" }
 ]
