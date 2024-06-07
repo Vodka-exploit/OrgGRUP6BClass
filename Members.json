@@ -1,0 +1,6 @@
+[
+  { "nama": "Anggota 1", "role": "Admin" },
+  { "nama": "Anggota 2", "role": "Ketua" },
+  { "nama": "Anggota 3", "role": "Yudisial" },
+  { "nama": "Anggota 4", "role": "Anggota" }
+]
