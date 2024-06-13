@@ -5,18 +5,19 @@
   { "nama": "Sidqi", "role": "Admin" },
   { "nama": "Azriel", "role": "Admin" },
   { "nama": "Rizqy", "role": "Admin Alim" },
-  { "nama": "Mirza", "role": "Admin" },
+  { "nama": "Al Hanif", "role": "Admin" },
+  { "nama": "Mirza", "role": "Admin Sus" },
   { "nama": "Almer", "role": "Admin" },
   { "nama": "Ahdan", "role": "Anggota Hitam" },
   { "nama": "Arya", "role": "Anggota" },
   { "nama": "Ashim", "role": "Anggota" },
   { "nama": "Hasan", "role": "Anggota Aneh" },
   { "nama": "Bayu", "role": "Anggota Fat" },
-  { "nama": "Dhaffa", "role": "Anggota" },
+  { "nama": "Dhaffa", "role": "Anggota Biasa" },
   { "nama": "Gibran", "role": "Anggota WaPres" },
   { "nama": "Kenzhie", "role": "Anggota" },
-  { "nama": "Syafir", "role": "Anggota" },
+  { "nama": "Syafir", "role": "Anggota Rusuh" },
   { "nama": "Izzaz", "role": "Anggota" },
   { "nama": "Izan", "role": "Anggota" },
-  { "nama": "Habib", "role": "Anggota" }
+  { "nama": "Habib", "role": "Anggota Alim" }
 ]
